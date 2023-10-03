@@ -1,0 +1,3 @@
+export const INSERT_COMMENT='INSERT_COMMENT'; 
+
+export const DELETE_COMMENT='DELETE_COMMENT';
